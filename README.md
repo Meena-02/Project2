@@ -18,3 +18,9 @@ this file contains the code to move the litekit in the intended direction and sp
 # MeenatchiSelvaraj_2102767-EE18-STM
 
 this zip folder contains the code that is loaded onto the cortex to recieve information from the pixycam and send instructions to litekit
+
+## Video
+
+
+https://github.com/Meena-02/Project2/assets/91966206/762d83fc-feec-418e-87e4-10ceb5a01ecd
+
